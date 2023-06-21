@@ -24,7 +24,7 @@
 }
 
 .button-mio {
-    background-color: rgba(255, 255, 255, 0.579);
+    background-color: rgba(255, 255, 255, 0.579)!important;
 }
 
 header ul li a:hover {
