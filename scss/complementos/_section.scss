@@ -1,0 +1,12 @@
+section {
+    @extend %flex-center;
+
+    img {
+        padding-top: 20px;
+        width: 88vw;
+        @media (max-width: 1080px){
+            width: 100vw;
+
+        }
+    }
+}
